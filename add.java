@@ -17,4 +17,4 @@ for(int j=a[l];j<s;j++)
 {
 a[j-1]=b[j-1];
 }
-System.out.println(
+String s=new String(a);
